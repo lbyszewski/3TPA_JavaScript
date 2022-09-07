@@ -1,0 +1,11 @@
+<?php
+
+require("polacz.php");
+
+
+
+
+
+
+
+?>

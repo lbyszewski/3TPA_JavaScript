@@ -1,0 +1,41 @@
+*{
+margin: 0px !important;
+padding: 0px !important;
+}
+#banner{
+background-image: url('ZadanieEgzaminacyjne/menu.jpg');
+background-position: center;
+color: blue;
+height: 200px;
+}
+#lewa{
+background-color: RGB(255, 218, 65);
+float: left;
+width: 40%;
+height: 400px;
+text-align: center;
+}
+#srodkowa{
+background-color: RGB(255, 226, 100);
+float: left;
+width: 30%;
+height: 400px;
+text-align: center;
+}
+#prawa{
+background-color: RGB(255, 233, 143);
+float: left;
+width: 30%;
+height: 400px;
+text-align: center;
+}
+footer{
+background-color: RGB(255, 218, 65);
+color: blue;
+}
+a{
+color: green;
+}
+p{
+font-size: 130%;
+}
