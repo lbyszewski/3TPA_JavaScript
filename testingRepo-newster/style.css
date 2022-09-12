@@ -1,0 +1,47 @@
+h2 {
+    color: red;
+    font-size: 72px;
+    text-align: center;
+      
+}
+table {
+    border: solid;
+}
+
+header {
+
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+footer {
+    font-size: 24px;
+    text-align: center;
+    color: brown;
+    font-weight: 600;
+    
+}
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+.clear {
+    clear: both;;
+}
+
+.fist {
+    border: solid;
+
+}
+.fast {
+    border: solid;
+}
+.frames {
+    height: 200px;
+    width: 300px;
+
+}

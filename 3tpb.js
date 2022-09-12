@@ -7,9 +7,6 @@ function oblicz(){
         }
     }
 
-    let napis = "napis ";
-
-    const lost = 10000000;
-    console.log(lost);
+   
 
 }

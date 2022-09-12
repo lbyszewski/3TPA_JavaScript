@@ -14,7 +14,7 @@ if($_POST) {
 
     
         // zapytanie sql
-        $result = mysqli_query($connection, "INSERT INTO uzytkownik (id_user, imie, nazwisko, pass) VALUES ('', '$imie', '$nazwisko', '$hash')");
+        $result = mysqli_query($connection, "INSERT INTO test (id, imie, nazwisko, haslo) VALUES ('', '$imie', '$nazwisko', '$hash')");
    
 
     // przekierowanie
